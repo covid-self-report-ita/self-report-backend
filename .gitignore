@@ -66,3 +66,4 @@ node_modules/
 
 functions/firebase-debug.log
 functions/.runtimeconfig.json
+public
